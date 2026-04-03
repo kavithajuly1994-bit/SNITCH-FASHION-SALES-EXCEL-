@@ -1,10 +1,10 @@
 # SNITCH-FASHION-SALES-EXCEL-
 📌 Project Overview
-This project focuses on analyzing Snitch Fashion sales data using Microsoft Excel to identify key revenue drivers, customer purchasing patterns, and overall sales performance.
-The dashboard provides actionable insights to support data-driven business decisions.
+- This project focuses on analyzing Snitch Fashion sales data using Microsoft Excel to identify key revenue drivers, customer purchasing patterns, and overall sales performance.
+- The dashboard provides actionable insights to support data-driven business decisions.
 
 📁 Dataset Details
-Snitch Fashion Sales Data (Excel format)
+- Snitch Fashion Sales Data (Excel format)
 
 🛠️ Tools Used
 - Data Visualization: Microsoft Excel
